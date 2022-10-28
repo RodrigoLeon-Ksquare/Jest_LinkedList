@@ -1,0 +1,23 @@
+{
+  "name": "jest_linkedlist",
+  "version": "1.0.0",
+  "description": "This is a repo for the Jest Linked List exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoLeon-Ksquare/Jest_LinkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoLeon-Ksquare/Jest_LinkedList/issues"
+  },
+  "homepage": "https://github.com/RodrigoLeon-Ksquare/Jest_LinkedList#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
